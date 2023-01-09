@@ -1,0 +1,185 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background: #fff url(../imagens/bg.png);
+    margin: 15px;
+}
+
+#container {
+    background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
+    margin: 0 auto;
+    min-width: 740px;
+    max-width: 1180px;
+}
+
+#topo {
+    position: relative;
+    background: #dbcd87;
+    height: 15.4em;
+    min-height: 250px;
+}
+
+#area-logo {
+    position: absolute;
+    background: url(../imagens/topo-imagem-principal.png) no-repeat;
+    width: 100%;
+    height: 250px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.logo a {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 3;
+    background: url(../imagens/logo.png) no-repeat;
+    width: 300px;
+    height: 66px;
+    text-indent: -9000px;
+}
+
+#area-menu {
+    position: absolute;
+    background: url(../imagens/topo-imagem-lateral.png) no-repeat;
+    width: 450px;
+    height: 250px;
+    top: 0;
+    right: 0;
+    z-index: 2;
+}
+
+#conteudo-menu {
+    margin-left: 90px;
+    margin-right: 15px;
+    padding-top: 15px;
+
+}
+
+#menu-locais {
+    font-weight: bold;
+    border-bottom: 1px solid #a732cc;
+    border-top: 1px solid #a732cc;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 0.7em;
+    color: #a732cc;
+}
+
+#menu-locais .features {
+    float: left;
+    line-height: 2.1em;
+}
+
+a {
+    text-decoration: none
+}
+
+a.playnow {
+    text-transform: uppercase;
+    background: #a732cc;
+    color: #ffffff;
+    padding: 5px 10px;
+    float: right;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul#navegacao {
+    float: left;
+}
+
+ul#navegacao a {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    padding: 5px;
+    color: #a732cc;
+    line-height: 30px;
+}
+
+ul#navegacao a:hover {
+    background: #d23eff;
+    color: #fff;
+}
+
+#menu {
+    margin-top: 15px;
+
+}
+
+#area-principal {
+    float: left;
+    width: 50%;
+    background: url(../imagens/bg-area-principal.png) top left repeat-x;
+    padding: 15px 0;
+}
+
+#area-lateral {
+    float: right;
+    width: 50%;
+    background: url(../imagens/bg-area-lateral.png) top left repeat-x;
+    padding: 20px 0;
+} 
+
+#titulo {
+    padding-bottom: 10px;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 90%;
+
+}
+
+#rodape {
+    clear: both;
+    padding: 16px;
+    background: rgb(0, 0, 0) url(../imagens/bg-rodape.png) repeat-x top;
+    color: rgb(41, 41, 41);
+}
+
+h2 {
+    color: #fff;
+    font-size: 1.2em;
+    padding: 5px 0;
+}
+
+p {
+    font-size: 0.9em;
+    margin-bottom: 13px;
+    color: #b6b6b6;
+    font-weight: bold;
+}
+
+#beneficios li {
+    padding: 8px;
+    border-bottom: 1px solid black;
+    height: 6em;
+}
+
+#beneficios li a img {
+    float: left;
+    margin-right: 8px;
+}
+
+#beneficios li a p {
+    text-decoration: none;
+    font-size: 0.8em;
+    font-weight: 300;
+}
+
+#beneficios li:hover {
+    background: #1f1f1f;
+    cursor: pointer;
+}
