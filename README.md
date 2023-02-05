@@ -18,3 +18,8 @@ ___
 
 ![Projeto-4](https://user-images.githubusercontent.com/97618574/213341603-b98b7f91-02b6-46ed-8c02-2585e752311b.png)
 ___
+
+* 02/2022
+
+![discord](https://user-images.githubusercontent.com/97618574/216804678-b95f00cb-3ef8-47d3-b63e-e602a6a3795b.png)
+___
