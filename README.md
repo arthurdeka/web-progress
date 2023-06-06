@@ -23,3 +23,10 @@ ___
 
 ![discord](https://user-images.githubusercontent.com/97618574/216804678-b95f00cb-3ef8-47d3-b63e-e602a6a3795b.png)
 ___
+
+* 04/2022
+
+![1](https://github.com/arthurdeka/web-progress/assets/97618574/d46e7a44-b901-430e-8ece-897939eab4e1)
+
+___
+
